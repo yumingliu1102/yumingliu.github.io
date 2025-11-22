@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 🚀 About
+# 🚀 About
 I’m Yuming Liu (刘玉铭). I am a jointly-supervised prospective Ph.D. candidate at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI). I am co-advised by [**Prof. Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and [**Prof. Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC. I am currently a member of the [**EVOL Lab**](https://zhaoj9014.github.io/).
 
 My research focuses on **Trustworthy AI**, aiming to advance the **safety, reliability, and robustness** of intelligent systems for real-world deployment.
